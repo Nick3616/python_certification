@@ -27,4 +27,4 @@ if __name__ == "__main__":
         print(f"Результат: {result}")
     else:
         print("Деление не выполнено.")
-# Пример ввода python Task_2.py 6 3
+# Пример ввода python task_2.py 6 3
