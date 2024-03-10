@@ -33,4 +33,4 @@ if __name__ == "__main__":
 
     collect_directory_info(directory_path)
 
-# Пример ввода python 'D:/'
+# Пример ввода python task_1.py 'D:/'
